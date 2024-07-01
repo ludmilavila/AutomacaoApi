@@ -1,0 +1,15 @@
+{
+  "name": "projetoautomacao",
+  "version": "1.0.0",
+  "description": "Automacao Ludmila",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Ludmila Avila",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.12.0",
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
